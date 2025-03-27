@@ -4,15 +4,22 @@
 
 
 
-    const button = document.getElementById("acceptButton");
-    const popup = document.getElementById("cookiePopup");
+    // const button = document.getElementById("acceptButton");
+    // const closeButton = document.getElementById("closeButton");
+    // const popup = document.getElementById("cookiePopup");
 
  
-    button.addEventListener("click", function () {
-        if (popup) {
-            popup.style.display = "none";
-        }
-    });
+    // button.addEventListener("click", function () {
+    //     if (popup) {
+    //         popup.style.display = "none";
+    //     }
+    // });
+
+    // closeButton.addEventListener("click", function () {
+    //     if (popup) {
+    //         popup.style.display = "none";
+    //     }
+    // });
 
 
 //     const [likes, setLikes] = useState(0);
